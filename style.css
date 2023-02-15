@@ -42,6 +42,7 @@ body {
   align-items: center;
   width: 252px;
   height: 252px;
+  border-radius: 10px;
 }
 
 .hoverEffect:hover {
